@@ -6,6 +6,8 @@ This project focuses on 3D reconstructions generated using structure from
 motion and multi-view stereo techniques, however, it is not limited to this
 setting.
 
+Example at https://www.youtube.com/watch?v=Ie-qLJdmlLI
+
 The algorithm was published in Sept. 2014 on the
 *European Conference on Computer Vision*. Please refer to our project website
 (http://www.gcc.tu-darmstadt.de/home/proj/texrecon/)
